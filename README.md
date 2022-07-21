@@ -1,6 +1,6 @@
 # Hello World, I'm Prince ![](https://i.imgur.com/M7Mo1eB.gif)
 
-Recent CS graduate. Mainly versed in Java, JavaScript, and C++.<br>
+Recent CS graduate. Junior developer with a focus on OOP.<br>
 I've developed a passion for programming over the years creating mobile and desktop applications!
 
 * 🌍  I'm based in New York.
