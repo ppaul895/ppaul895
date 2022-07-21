@@ -4,7 +4,7 @@ Recent CS graduate. Mainly versed in Java, JavaScript, and C++.<br>
 I've developed a passion for programming over the years creating mobile and desktop applications!
 
 * 🌍  I'm based in New York.
-* 🚀  I'm currently working on my [personal portfolio](https://github.com/ppaul895/ppaul895.github.io).
+* 🚀  I'm currently working on my [personal portfolio](https://www.princepaul.dev/).
 * 🧠  I'm also learning HTML & CSS.
 * 🤝  I'm open to collaborating on open source projects!
 * ⚡  When I'm not coding, I love to cook, watch sports, and build computers/keyboards!
